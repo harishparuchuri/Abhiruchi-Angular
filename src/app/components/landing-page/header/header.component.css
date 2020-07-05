@@ -1,0 +1,20 @@
+.navbar{
+    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+    font-family: "Nunito Sans", sans-serif;
+    box-shadow: 0 0 10px black;
+    
+    
+}
+#logo{
+    color: #E44236;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: "Nunito Sans", sans-serif;
+}
+.nav-item a{
+    font-weight: 700;
+    color: #fff;
+}
+.nav-item a:hover{
+    color: red;
+}

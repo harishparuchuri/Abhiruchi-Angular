@@ -24,9 +24,11 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
+            
           },
           "configurations": {
             "production": {
@@ -119,6 +121,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "abhiruchi"
+    }
+  },
+  "defaultProject": "abhiruchi",
+  "cli": {
+    "analytics": "318dab5f-4772-4a17-922f-f9e790467e9f"
+  }
 }

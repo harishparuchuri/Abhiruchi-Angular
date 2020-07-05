@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+  body {
+    background: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+  }
+html{
+    scroll-behavior:smooth;
+    -webkit-font-smoothing: antialiased;
+}
+a:hover, a:active, a:focus {
+    color: #ce3232;
+    outline: none;
+  }
+  ::-webkit-scrollbar{
+    width: 8px;
+    height: 8px;
+  }
+  ::-webkit-scrollbar-thumb {
+    cursor: pointer;
+    background: orangered;
+  }

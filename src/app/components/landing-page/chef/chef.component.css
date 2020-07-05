@@ -1,0 +1,25 @@
+.title h4{
+    font-size: 12px;
+  }
+  #team{
+    background:#2C3335;
+  }
+  #team h5{
+    color: #E74292;
+  }
+  .card-img{
+    background:#2C3335;
+    color: #E74292;
+    
+    
+  }
+  
+  #info{
+    background:#2C3335;
+  }
+  
+  #info h5{
+    color: lightslategray;
+    font-size: 15px;
+    
+  }
